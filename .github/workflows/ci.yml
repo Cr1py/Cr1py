@@ -22,13 +22,6 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      # snake game 
-      - uses: Platane/snk@v3
-        with:
-
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
