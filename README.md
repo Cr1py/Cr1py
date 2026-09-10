@@ -19,7 +19,7 @@
 
 - I'm a junior software developer just trying to find their way in their career.
 - I graduated with a BSc. Honours Specialization in Computer Science @ The University of Western Ontario (Graduated June 2026)
-- I've been very interested in trying out new animation styles in CSS (Gyroscoping and the PreText library especially come to mind)
+- I've been very interested in trying out new animation styles in CSS (GSAP and the PreText library especially come to mind)
 - I have too many MTG deck ideas and plans on architekt, but not enough funds to make them a reality D:
 
 ---
