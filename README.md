@@ -68,6 +68,17 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
+<p align="leftr">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Cr1py&show_icons=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1py&layout=compact&langs_count=8"
+    height="180"
+  />
+</p>
+
 ---
 
 ### Snake Game :D
